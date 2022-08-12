@@ -1,6 +1,6 @@
 ![Pr0t0ns GitHub stats](https://github-readme-stats.vercel.app/api?username=pr0t0ns&show_icons=true&theme=radical)
-
-    class Pr0t0ns:
+```python
+class Pr0t0ns:
     
     def __init__(self):
         self.username = 'Pr0t0ns'
@@ -12,10 +12,10 @@
         self.collaboraters = ['S0PT0N', 'ADylan']
         self.freinds = ['Bob ()', 'Rabbit', 'Ayanami', 'Vichy', 'JohnBoy', 'adam44gg', 'Dahere']
         self.freinds.append('Pr0t0ns')
+        
     def __str__(self):
         return self.username
 
-
-    if __name__ == '__main__':
-        me = Pr0t0ns()
-
+if __name__ == '__main__':
+    me = Pr0t0ns()
+```
