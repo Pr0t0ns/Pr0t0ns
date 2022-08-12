@@ -9,8 +9,8 @@ class Pr0t0ns:
         self.discordlink = 'discord.gg/republican'
         self.languages = ["python", "html", "css"]
         self.learning = ["Javascript", "C", "Golang", "C#"]
-        self.collaboraters = ['S0PT0N', 'ADylan']
-        self.freinds = ['Bob ()', 'Rabbit', 'Ayanami', 'Vichy', 'JohnBoy', 'adam44gg', 'Dahere']
+        self.collaboraters = ['S0PT0N (t7y8)', 'ADylan']
+        self.freinds = ['Bob (notbob)', 'Rabbit', 'Ayanami', 'Vichy', 'JohnBoy', 'adam44gg', 'Dahere']
         self.freinds.append('Pr0t0ns')
         
     def __str__(self):
