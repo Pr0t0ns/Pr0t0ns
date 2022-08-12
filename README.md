@@ -1,6 +1,6 @@
 
 
-class Pr0t0ns:
+    class Pr0t0ns:
     
     def __init__(self):
         self.username = 'Pr0t0ns'
@@ -15,5 +15,5 @@ class Pr0t0ns:
         return self.username
 
 
-if __name__ == '__main__':
-    me = Pr0t0ns()
+    if __name__ == '__main__':
+        me = Pr0t0ns()
