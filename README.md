@@ -6,7 +6,7 @@ class Pr0t0ns:
         self.username = 'Pr0t0ns'
         self.location = 'My moms basement'
         self.discord = 'Pr0t0n#1427'
-        self.discordlink = 'discord.gg/republican'
+        self.discordlink = 'discord.gg/termed'
         self.languages = ["python", "html", "css"]
         self.learning = ["Javascript", "C", "Golang", "C#"]
         self.collaboraters = ['S0PT0N (t7y8)', 'ADylan']
