@@ -5,7 +5,7 @@ class Pr0t0ns:
     def __init__(self):
         self.username = 'Pr0t0ns'
         self.location = 'My moms basement'
-        self.discord = 'Pr0t0n#1427'
+        self.discord = 'Pr0t0n#5220'
         self.discordlink = 'discord.gg/termed'
         self.languages = ["python", "html", "css"]
         self.learning = ["Javascript", "C", "Golang", "C#"]
