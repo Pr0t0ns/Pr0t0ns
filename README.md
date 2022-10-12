@@ -5,12 +5,13 @@ class Pr0t0ns:
     def __init__(self):
         self.username = 'Pr0t0ns'
         self.location = 'My moms basement'
-        self.discord = 'Pr0t0n#5220'
-        self.discordlink = 'discord.gg/termed'
+        self.discord = 'Pr0t0n#0001'
+        self.discordlink = 'https://discord.gg/AJedKxdgKR'
+        self.tg_link = 'https://t.me/+Tvbz-xGh_5pjYzVh'
         self.languages = ["python", "html", "css"]
         self.learning = ["Javascript", "C", "Golang", "C#"]
-        self.collaboraters = ['S0PT0N (t7y8)', 'ADylan']
-        self.freinds = ['Bob (notbob)', 'Rabbit', 'Ayanami', 'Vichy', 'JohnBoy', 'adam44gg', 'Dahere', 'Sharktwo']
+        self.collaboraters = ['S0PT0N (t7y8)', 'Kube', 'Adylan', 'Slotth']
+        self.freinds = ['Vichy', 'Kube', 'Buz.z', 'rormommemm', 'Zorex', 'Dahere', 'Sharktwo']
         self.freinds.append('Pr0t0ns')
         
     def __str__(self):
