@@ -3,11 +3,11 @@
 class Pr0t0ns:
     
     def __init__(self):
-        self.in_progress = 'captcha.deceased'
-        self.username = 'Pr0t0ns'
+        self.in_progress = 'QuickQuery'
+        self.username = 'Pr0t0n'
         self.location = 'My moms basement'
-        self.discord = 'Leaving blank because I get banned by discord everytime i put it here'
-        self.discordlink = 'https://discord.gg/ubFsFJxjUg'
+        self.discord = 'Pr0t0n#2154'
+        self.discordlink = 'https://discord.gg/WgMVYnTAuE'
         self.tg_link = 'https://t.me/+Tvbz-xGh_5pjYzVh'
         self.languages = ["python", "html", "css"]
         self.learning = ["Javascript", "C", "Golang", "C#"]
