@@ -7,7 +7,7 @@ class Pr0t0ns:
         self.location = 'My moms basement'
         self.discord = 'pr0t0na.'
         self.discord_link = 'banned a million times no discord for now'
-        self.telegram_username = "@Pr0t0ns"
+        self.telegram_username = "@Pr0t0na"
         self.tg_link = 'https://t.me/+Tvbz-xGh_5pjYzVh'
         self.language = "python"
         self.learning = "Reverse Engineering"    
