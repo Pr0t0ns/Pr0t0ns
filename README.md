@@ -6,12 +6,12 @@ class Pr0t0ns:
         self.username = 'Pr0t0n'
         self.location = 'My moms basement'
         self.discord = 'pr0t0na.'
-        self.discordlink = 'https://discord.gg/hcap'
+        self.discord_link = 'banned a million times no discord for now'
+        self.telegram_username = "@Pr0t0na"
         self.tg_link = 'https://t.me/+Tvbz-xGh_5pjYzVh'
-        self.languages = ["python", "html", "css"]
-        self.learning = ["Javascript", "Golang"]
-        self.friends.append('Pr0t0ns')
-        
+        self.language = "python"
+        self.learning = "Reverse Engineering"    
+    
     def __str__(self):
         return self.username
 
