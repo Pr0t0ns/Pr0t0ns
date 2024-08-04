@@ -8,7 +8,7 @@ class Pr0t0n:
         self.discord_link = 'banned, no discord for now.'
         self.telegram_username = "@Pr0t0n_Best"
         self.tg_link = 'https://t.me/+Tvbz-xGh_5pjYzVh'
-        self.language = ["Python, "Javascript"]
+        self.language = ["Python", "Javascript"]
         self.learning = "Reverse Engineering"    
     
     def __str__(self):
