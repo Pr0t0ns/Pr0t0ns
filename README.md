@@ -3,7 +3,7 @@
 class Pr0t0ns:
 
     def __init__(self):
-        self.telegram_username = "https://t.me/pr0t0ngoated"
+        self.telegram_username = "https://t.me/cornflakes"
         self.tg_link = 'https://t.me/+Tvbz-xGh_5pjYzVh'
         self.discord_link = 'banned, no discord for now.'
         self.language = ["Python", "Javascript"]
