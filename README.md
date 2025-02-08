@@ -1,4 +1,4 @@
-![Pr0t0ns GitHub stats](https://github-readme-stats.vercel.app/api?username=pr0t0ns&show_icons=true&theme=radical)
+![Pr0t0ns GitHub stats](https://github-readme-stats.vercel.app/api?username=pr0t0ns&show_icons=true)
 ```python
 class Pr0t0ns:
 
