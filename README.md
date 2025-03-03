@@ -1,7 +1,7 @@
 ![Pr0t0ns GitHub stats](https://github-readme-stats.vercel.app/api?username=pr0t0ns&show_icons=true)
 ```python
 class Pr0t0ns:
-
+    # For any captcha related inquries feel free to contact me via telegram
     def __init__(self):
         self.telegram_username = "https://t.me/Pr0t0nwave"
         self.tg_link = 'https://t.me/+Tvbz-xGh_5pjYzVh'
