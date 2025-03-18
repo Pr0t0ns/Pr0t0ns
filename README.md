@@ -6,8 +6,9 @@ class Pr0t0ns:
         self.telegram_username = "https://t.me/Pr0t0nwave"
         self.tg_link = 'https://t.me/+Tvbz-xGh_5pjYzVh'
         self.discord_link = 'banned, no discord for now.'
-        self.language = ["Python", "Javascript"]
-        self.learning = "Reverse Engineering"    
+        self.languages = ["Python", "Javascript", "C", "WASM"]
+        self.reversed = ["Kasada, "PerimeterX", "Funcaptcha (Arkose Labs)", "AWS WAF"]
+        self.learning = "Reverse Engineering"
     def __str__(self):
         return self.username
 if __name__ == '__main__':
