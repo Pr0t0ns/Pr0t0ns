@@ -3,6 +3,7 @@
 class Pr0t0ns:
     # For any captcha related inquries feel free to contact me via telegram
     def __init__(self):
+        self.website = "https://silentsolve.xyz/"
         self.telegram_username = "https://t.me/autographed"
         self.tg_link = 'https://t.me/+Tvbz-xGh_5pjYzVh'
         self.discord_link = 'banned, no discord for now.'
