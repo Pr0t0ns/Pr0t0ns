@@ -5,7 +5,7 @@ class Pr0t0ns:
     def __init__(self):
         self.website = "https://silentsolve.xyz/"
         self.telegram_username = "https://t.me/autographed"
-        self.tg_link = 'https://t.me/+Tvbz-xGh_5pjYzVh'
+        self.tg_link = 'https://t.me/+KwQYzhJryu5mMjMx'
         self.discord_link = 'banned, no discord for now.'
         self.languages = ["Python", "Javascript", "C", "WASM"]
         self.reversed = ["Kasada", "PerimeterX", "Funcaptcha (Arkose Labs)", "AWS WAF"]
