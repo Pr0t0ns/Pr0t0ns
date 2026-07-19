@@ -1,4 +1,3 @@
-![Pr0t0ns GitHub stats](https://github-readme-stats.vercel.app/api?username=pr0t0ns&show_icons=true)
 ```python
 class Pr0t0ns:
     # For any captcha related inquries feel free to contact me via telegram
